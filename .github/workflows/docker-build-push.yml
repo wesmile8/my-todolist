@@ -45,4 +45,4 @@ jobs:
 
       - name: Push the Docker image
         run: |
-          docker push your-dockerhub-username/your-image-name:latest
+          docker push wesmile8/my-todolist:latest
